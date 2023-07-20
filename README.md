@@ -1,1 +1,3 @@
-# Earth_quake_prediction
+# Earthquake-Prediction
+
+Author: Pooja Pedgaonkar, Pranav Tupe
